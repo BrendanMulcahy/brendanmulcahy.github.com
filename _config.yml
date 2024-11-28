@@ -12,13 +12,16 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Brendan Mulcahy's Blog
-theme: jekyll-theme-minimal
 tagline: The Great Learning Agents
 author :
   name : Brendan Mulcahy
   email : mulcahy.software@gmail.com
   github : BrendanMulcahy
   twitter : RobotBrendan
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

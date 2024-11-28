@@ -12,7 +12,8 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Brendan Mulcahy's Blog
-tagline: The Great Learning Agnets
+theme: jekyll-theme-minimal
+tagline: The Great Learning Agents
 author :
   name : Brendan Mulcahy
   email : mulcahy.software@gmail.com

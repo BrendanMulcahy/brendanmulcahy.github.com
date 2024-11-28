@@ -11,6 +11,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
+theme: bootstrap
 title : Brendan Mulcahy's Blog
 tagline: The Great Learning Agents
 author :

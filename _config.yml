@@ -19,10 +19,6 @@ author :
   github : BrendanMulcahy
   twitter : RobotBrendan
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls

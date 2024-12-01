@@ -1,12 +1,10 @@
 ---
 layout: post
 category : essay
-tagline: "The Great Learning Agents"
+tagline: "Learning is Fun"
 tags : [machine learning, learning agents, metaverse, games]
 ---
 {% include JB/setup %}
-
-# The Great Learning Agents
 
 > Disclaimer: The following opinions are my own and not necessarily the views of my employer.
 

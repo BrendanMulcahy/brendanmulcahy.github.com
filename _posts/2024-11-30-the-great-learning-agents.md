@@ -36,22 +36,21 @@ remember how we learned to make games Fun.
 ## How did we learn to make Fun games? First, we had to be good gamers!
 Let me tell you my story as a good gamer. When I was a child, I did not know how to
 make games, but when I was old enough I could play them. My parents bought me a NES and I
-played a lot of games from Duck Hunt to Super Mario. Eventually these games would get boring
+played a lot of games from _Duck Hunt_ to _Super Mario Bros_. Eventually these games would get boring
 and I would play other games with my friends in real life. Children love to play social games with
 other children.
 
 When I grew older, I got harder games to play. My parents bought me a Nintendo 64. I
-liked to play super mario 64. Mario on the N64 is much harder because you can control the
+liked to play _Super Mario 64_. Mario on the N64 is much harder because you can control the
 camera in addition to the character. Since the games were harder, I would play them a lot in
 order to master them. On the outside, this was concerning to my parents because they thought I
-was addicted to the game. Once they saw my grades in school were excellent and that I
-played well with my friends in real life, they were no longer worried that I played too many
-games. When I did play too many games, I got time limits until I learned how to balance play
+was addicted to these games. Once they saw my grades in school were excellent and that I
+played well with my friends in real life, they were no longer overly worried that I played too many
+games. When I did play too many games, I would get time limits until I learned how to balance play
 with work. This entire process of growing up as a child was very Fun.
 
-Besides playing games, I also went to school. I went to a Jesuit Catholic school in
-Cleveland Ohio called _St. Ignatius High School_. I learned that Christianity was one
-formula/game for being a good gamer in the grand game we call life itself. Other religions are
+I went to a Jesuit Catholic school in Cleveland Ohio called _St. Ignatius High School_. I learned that Christianity was one
+formula for being a good gamer in the grand game we call life itself. Other religions are
 great too though! I really like Taoism.
 
 ## How did we become game developers?
@@ -118,7 +117,7 @@ only I knew how other people made computer games. I asked my mom and dad if they
 how video games were made and they did not know. I searched on the internet and I found the
 original Version of the Game Maker engine and language (thanks Mark Overmars for allowing
 me to become a video game developer at such a young age 🙂). I made a few simple games to
-figure out how Game Maker worked, and eventually I showed my best friend Adam Giffi how
+figure out how Game Maker worked, and one day I showed my best friend Adam Giffi how
 Game Maker worked. He made a really Fun game inspired by the Jaws film. In this way, one
 game developer can create other game developers, and both benefit by playing the Fun game
 of the other developers!
@@ -246,7 +245,7 @@ random colors and take random actions. They really only "know" how to eat, poop,
 cry; although, they don’t yet understand how these processes work. That’s right: children have
 to learn how to sleep, even if it seems automatic to us adults.
 
-Eventually patterns emerge as the child grows and they can start to play games.
+Patterns emerge as the child grows and they can start to play games.
 Patterns both in the observations, but also in the actions and how these actions influence the
 observable world. Parents create the first games for their children. The parent builds a tower,
 and the child will knock it over for Fun (try to learn what will happen when their hand hits the
@@ -272,7 +271,7 @@ This form of struggle between the parent and the child makes both the child and 
 better. This is similar to how the game developer gets better from the game players, and vice
 versa.
 
-Eventually my son Nolan grew old enough that I could play games with him which
+My son Nolan grew old enough that I could play games with him which
 regular folks would recognize as "games". First, I played board games with him. I bought him
 this simple game called [My First Orchard](https://www.habausa.com/products/my-very-first-games-first-orchard), so he could learn the basics of games themselves.
 The gamer comes to recognize the existence of the game. Finite games have various
@@ -293,11 +292,11 @@ an advantage, but since the game will be played many times over, sometimes the g
 will intentionally take bad actions in one session in order to discover if they misunderstood these
 actions/situations. The good player finds a balance between winning and learning. This is Fun.
 
-Eventually I let Nolan play video games on the NES. In the beginning, he liked
-Excitebike because it was so easy. Just push the gas and move. Eventually he realized he could
+Today, I let Nolan play video games on the NES. In the beginning, he liked
+_Excitebike_ because it was so easy. Just push the gas and move. In time, he realized he could
 try not to go too fast so as not to flip over his bike. There are natural feedback mechanisms built
-into the game. I didn’t even have to tell him much about how to improve (although when I gave
-him good demonstrations he could learn faster - but ultimately he had to learn on his own).
+into the game. I didn't even have to tell him much about how to improve. If/when I gave
+him good demonstrations he could learn faster - but ultimately he had to learn on his own.
 
 When Nolan got older, I watched him play games he had never played before. The
 following section describes what I saw him do.  By the way, it has been an honor to have been blessed
@@ -345,7 +344,7 @@ loves the good teacher. I know this because my son said “I love you Dad”
 completely un-prompted from me haha! Love given freely like this feels like
 winning some kind of game - the teaching game.
 10. Nolan played a lot of games and we found which ones were Fun and which were boring,
-and which were too hard. Eventually we will return and try the games again and see
+and which were too hard. One day we will return and try the games again and see
 where he stands.
 
 ## Why make learning agents in games?
@@ -369,7 +368,7 @@ multiplayer games. Since other objects are controlled by humans which are capabl
 there are now other learning agents in the game world. Games which have learners seem to be
 infinitely interesting (until the perfect world model is constructed). Take a look at the staying
 power of chess for example, and games like Fortnite, Starcraft, and Dota. Single player games
-will eventually get boring. Is it possible for all games to be multiplayer games? Yes!
+will after some time get boring. Is it possible for all games to be multiplayer games? Yes!
 
 Players are learners. If we can make AI characters learn, then the game can have
 artificial players. If we can make our games learn, then the game is a player itself in a weird sort

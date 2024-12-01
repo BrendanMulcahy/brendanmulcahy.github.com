@@ -613,7 +613,7 @@ Ideas for how to help:
 - Inspire others
 
 Thanks for your time and you can contact me on [LinkedIn](https://www.linkedin.com/in/brmulcahy/), [Twitter](https://twitter.com/AgentMulcahy), or brendan.mulcahy AT epicgames.com!
+
 Just be forewarned that I might test you before I spend time working with you.
 
-Thanks, I have to get back to my work now!
-
+I have to get back to my work now!

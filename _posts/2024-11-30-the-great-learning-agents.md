@@ -210,10 +210,10 @@ for fame and fortune. Beginners can play against bots in order to build up confi
 who are too scared will run from the game. Gamers who are confident will choose to fight and
 play the game.
 
-My son is at the age where he knows fear now (babies do not really know fear because
+My son is at the age where he knows fear now. Babies do not really know fear because
 they do not know the future - all fear and anxiety comes from the fear of death itself. When he
-sees something that is too scary, I taught him that he MUST run, so as not to die. In LEGO
-Fortnite, he will run away from the scary looking giant juggernaut dinosaur guys, but he will fight
+sees something that is too scary, I taught him that he MUST run, so as not to die. In _LEGO
+Fortnite_, he will run away from the scary looking giant juggernaut dinosaur guys, but he will fight
 the wolves (only when he has a sword and shield of course!). Similarly, he will try to pick games
 from the discovery tab to play. He picks games that look Fun, but if they are too boring or scary,
 he will run from them. He will be glued to games that are Fun. Sometimes I help him pick the

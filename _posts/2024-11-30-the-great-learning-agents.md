@@ -234,7 +234,7 @@ go to time out.
 
 ## How did I come to know this process?
 
-![Brendan holding Nolan and Niall akimbo](assets/images/NolanNiallAkimbo.jpg)
+![Brendan holding Nolan and Niall akimbo](../assets/images/NolanNiallAkimbo.jpg)
 
 _My little learning agents are trying to have Fun by searching for meaning in the metaverse._
 
@@ -605,14 +605,15 @@ Learn about learning agents by taking the following course and giving us feedbac
 [Learning Agents 5.5 Course](https://dev.epicgames.com/community/learning/courses/GAR/unreal-engine-learning-agents-5-5/bZnJ/unreal-engine-learning-agents-5-5)
 
 Ideas for how to help:
-● How to make this story better?
-● How to make the tutorial better?
-● How to make the learners better?
-● Make your own games with learning agents!
-● Get involved in your own way!
-● Inspire others
+- How to make this story better?
+- How to make the tutorial better?
+- How to make the learners better?
+- Make your own games with learning agents!
+- Get involved in your own way!
+- Inspire others
 
 Thanks for your time and you can contact me on [LinkedIn](https://www.linkedin.com/in/brmulcahy/), [Twitter](https://twitter.com/AgentMulcahy), or brendan.mulcahy AT epicgames.com!
 Just be forewarned that I might test you before I spend time working with you.
 
 Thanks, I have to get back to my work now!
+

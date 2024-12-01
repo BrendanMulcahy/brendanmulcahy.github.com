@@ -234,7 +234,7 @@ go to time out.
 
 ## How did I come to know this process?
 
-![Brendan holding Nolan and Niall akimbo](../assets/images/NolanNiallAkimbo.jpg)
+![Brendan holding Nolan and Niall akimbo](https://agentmulcahy.com/assets/images/NolanNiallAkimbo.jpg)
 
 _My little learning agents are trying to have Fun by searching for meaning in the metaverse._
 

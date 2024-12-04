@@ -21,9 +21,11 @@ cheat the good gamers: they keep you honest.
 Gamers have Fun when they are doing playful learning. This is true happiness. Gamers
 are learners: good gamers are good learners. What is Fun is different for every gamer, but a lot
 of gamers are similar enough that we can make games for the masses. Playful games create a
-safe space for all gamers to learn at their own pace. Fun exists in the balance between fear and
-boredom. If the game is too hard for the gamer, the gamer will revolt in fear. If the game is too
-easy, the gamer will get bored and find another game to play. Sometimes gamers can even
+safe space for all gamers to learn at their own pace. Fun exists in the balance between frustration and
+boredom. If the game is too hard for the gamer, the gamer will revolt in frustration. If the game is too
+easy, the gamer will get bored and find another game to play.
+
+Sometimes gamers can even
 make their own games with the games we create. The following are all metagames we’ve seen
 before: speedrunning, leaderboards, and even writing the game’s wiki.
 

@@ -148,7 +148,7 @@ game was too confusing and just a bad game. A good game communicates an interest
 message to the player. A message is interesting if the player thinks it will help them in the future,
 so they decide to remember it.
 
-Feedback is the greatest gift the gamer can give to the game designer, and vice versa.
+[Feedback is the greatest gift](https://a.co/d/hceZ2XX) the gamer can give to the game designer, and vice versa.
 Both the player and the designer say thanks to each other, and recognize the gifts that each
 gives to the other. This entire process is Fun. The gift given is itself Fun too. Fun is the
 possibility of learning to occur.
@@ -238,7 +238,7 @@ go to time out.
 _My little learning agents are trying to have Fun by searching for meaning in the metaverse._
 
 I have two children, Nolan Mulcahy (left) and Niall Mulcahy (right), and I am teaching them
-to be gamers. By closing observing them and by reading up on psychology, I have been able to learn a lot!
+to be gamers. By closely observing them and by reading up on psychology, I have been able to learn a lot!
 
 When children are born, first they learn how their senses and actions work. They see
 random colors and take random actions. They really only "know" how to eat, poop, sleep and
@@ -252,7 +252,7 @@ and the child will knock it over for Fun (try to learn what will happen when the
 tower somewhere). Eventually the parent can make the game to stack the blocks as high as
 possible. This game is even Fun for adults if you have enough blocks available haha!
 
-When children get older about the age of 2 or 3, they start to really challenge the
+When children get older, about the age of 2 or 3, they start to really challenge the
 parents and themselves. They begin to throw, hit, etc. This is the process by which children
 learn good actions from bad actions/behavior. The good parent teaches the child what is bad via
 feedback. The greatest punishment for violent behavior is to restrict the child’s freedom. They
@@ -409,7 +409,7 @@ sent to the body. Really complex thoughts like introspection can take a long tim
 At night, the brain takes all the buffered experiences and uses them to compile the new
 version of the interpreter so that the next day it will run even better (faster, more efficient, more
 accurate, etc.). Agents must sleep after filling up their short-term memory buffer. The memory
-buffer fills up only with experiences that are new - things that need to be learned. When we run
+buffer fills up mostly with experiences that are new - things that need to be learned. When we run
 on autopilot, we don’t remember those experiences. Babies and children must sleep much more
 often than adults (nap a ton per day -> nap twice a day -> nap once a day) because their
 experience buffer is smaller, since their brains are still developing. Adults can have a long

@@ -1,4 +1,13 @@
-# The Great Meditator
+---
+layout: post
+category : essay
+tagline: "Meditation is self-control"
+tags : [machine learning, learning agents, metaverse, games]
+---
+{% include JB/setup %}
+
+> Disclaimer: The following opinions are my own and not necessarily the views of my employer.
+
 Since the creation of primitive tools such as sticks and stones, mankind has always feared its own creations. Many great works of literature
 and cinema are built around this idea: Frankenstein, Jurassic Park, Westworld, and of course, Terminator. In our modern day, many people are
 afraid of the rapid advances in AI and ML, and rightfully so. AI represents a complete paradigm shift where humans no longer have a monopoly
